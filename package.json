@@ -1,0 +1,19 @@
+{
+  "name": "opengui",
+  "version": "1.0.0",
+  "description": "Open source GUI framework for Unity",
+  "main": "Assets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennelbound-unity/opengui.git"
+  },
+  "author": "mrzapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennelbound-unity/opengui/issues"
+  },
+  "homepage": "https://github.com/kennelbound-unity/opengui#readme",
+  "dependencies": {
+    "projenody-pm": "git+https://github.com/kennelbound-unity/projenody-pm.git"
+  }
+}

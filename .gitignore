@@ -2,3 +2,5 @@
 *.swp
 Library
 Temp
+node_modules
+/opengui.unity

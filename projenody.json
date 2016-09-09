@@ -1,0 +1,8 @@
+{
+  "name": "opengui",
+  "assetsFolder": "OpenGUI/Assets",
+  "targetFolder": "/opengui",
+  "projectSettingsFolder": "OpenGUI/ProjectSettings",
+  "applicationPackage": true,
+  "pluginPackage": false
+}
